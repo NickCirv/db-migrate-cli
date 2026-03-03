@@ -1,0 +1,24 @@
+{
+  "name": "db-migrate-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Manage SQL database migrations without a framework — works with PostgreSQL and SQLite",
+  "bin": {
+    "db-migrate-cli": "./index.js",
+    "dbm": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "database",
+    "migrations",
+    "sql",
+    "postgres"
+  ],
+  "license": "MIT"
+}
