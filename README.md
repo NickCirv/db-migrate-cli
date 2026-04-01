@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # db-migrate-cli
 
 Zero-dependency SQL migration CLI. Manage database migrations (up/down/status/create) without a framework — works with any PostgreSQL or SQLite database.
